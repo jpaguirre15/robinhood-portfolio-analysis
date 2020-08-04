@@ -1,8 +1,9 @@
 # Stock Portfolio Analysis
-An analysis of my current stock portfolio using the following tools: 
+An analysis of my current stock portfolio in Robinhood using the following tools: 
 - JupyterLab
 - Python3
 - BeautifulSoup
+- Robinhood
 
 Analysis incudes:
 - Daily and annual return by using mean
